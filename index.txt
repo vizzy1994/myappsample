@@ -1,0 +1,4 @@
+#include <studio>
+
+printf(test)
+unit8_t regA = 0x95;

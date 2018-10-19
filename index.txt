@@ -2,3 +2,4 @@
 
 printf(test)
 unit8_t regA = 0x95;
+unit8_t regB = 0x3B;
